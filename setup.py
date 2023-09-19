@@ -6,8 +6,8 @@ def _requires_from_file(filename):
 
 setup(
     name="isc-feature-extractor",
-    version="1.0.1",
-    url="https://github.com/lyakaap/ISC21-Descriptor-Track-1st",
+    version="1.0.2",
+    url="https://github.com/jakub-kucera/ISC21-Descriptor-Track-1st",
     author="lyakaap",
     packages=find_packages(exclude=["exp", "scripts"]),
     python_requires=">=3.7",
